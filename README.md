@@ -1,5 +1,5 @@
 ### ZUI Theme for cyanogenmod os
 
-![Logo](art/Screenshots/Screenshot_20161012-172648.PNG)
-![Logo2](art/Screenshots/Screenshot_20161012-172658.PNG)
-![Logo3](art/Screenshots/Screenshot_20161012-172715.PNG)
+![Logo](art/Screenshots/1.png)
+![Logo2](art/Screenshots/2.png)
+![Logo3](art/Screenshots/3.png)
