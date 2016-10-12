@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="secondary_text_default_material_dark">#ffbdbdbd</color>
+
+    <color name="material_deep_teal_200">#4CAF50</color>
+    <color name="material_deep_teal_500">#4CAF50</color>
+
+    <color name="material_blue_grey_800">#4CAF50</color>
+
+    <color name="material_blue_grey_900">#4CAF50</color>
+    <color name="material_blue_grey_950">#388E3C</color>
+
+    <color name="system_notification_accent_color">#4CAF50</color>
+
+    <color name="ripple_material_dark">#3e000000</color>
+    <color name="ripple_material_light">#0b000000</color>
+</resources>
